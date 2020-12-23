@@ -3,9 +3,6 @@ package com.appsflyer.appsflyersdkexample;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.appsflyer.AppsFlyerLib;
-import com.appsflyer.appsflyersdk.AppsflyerSdkPlugin;
-
 //import io.flutter.app.FlutterActivity;
 //import io.flutter.plugins.GeneratedPluginRegistrant;
 import androidx.annotation.NonNull;
